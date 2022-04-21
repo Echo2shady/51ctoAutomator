@@ -1,0 +1,100 @@
+{
+  "uid" : "2e558010f45e2027",
+  "name" : "test_Func_01_01_0003",
+  "fullName" : "case.TestCase1#test_Func_01_01_0003",
+  "historyId" : "3d8a416ff6d1da0201db6a7e5b80acb2",
+  "time" : {
+    "start" : 1650511203836,
+    "stop" : 1650511209176,
+    "duration" : 5340
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "set_device_id_list",
+    "time" : {
+      "start" : 1650511141731,
+      "stop" : 1650511141753,
+      "duration" : 22
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "cmdopt",
+    "time" : {
+      "start" : 1650511141731,
+      "stop" : 1650511141731,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "set_driver_pool",
+    "time" : {
+      "start" : 1650511141754,
+      "stop" : 1650511185885,
+      "duration" : 44131
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "搜索页"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case"
+  }, {
+    "name" : "suite",
+    "value" : "TestCase1"
+  }, {
+    "name" : "host",
+    "value" : "luoxideMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "3973-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.TestCase1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2e558010f45e2027.json",
+  "parameterValues" : [ ]
+}

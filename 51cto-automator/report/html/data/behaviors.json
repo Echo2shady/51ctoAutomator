@@ -1,0 +1,37 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "首页",
+    "children" : [ {
+      "name" : "test_Func_01_01_0002",
+      "uid" : "16a341d716553f74",
+      "parentUid" : "eaa2a198f4e7a200ae4212d088e65135",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650511185889,
+        "stop" : 1650511203828,
+        "duration" : 17939
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "eaa2a198f4e7a200ae4212d088e65135"
+  }, {
+    "name" : "搜索页",
+    "children" : [ {
+      "name" : "test_Func_01_01_0003",
+      "uid" : "2e558010f45e2027",
+      "parentUid" : "e3472a7574ca9a1dfac94a822b985483",
+      "status" : "passed",
+      "time" : {
+        "start" : 1650511203836,
+        "stop" : 1650511209176,
+        "duration" : 5340
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "e3472a7574ca9a1dfac94a822b985483"
+  } ],
+  "name" : "behaviors"
+}
